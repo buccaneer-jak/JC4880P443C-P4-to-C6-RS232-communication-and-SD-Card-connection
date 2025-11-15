@@ -4,6 +4,7 @@ Test that the ESP32-P4 is communicating with the C6 and also checks the SD card 
 Place the files into two different folders. Suggestions are ESP32-P4_WiFi_Controller and ESP32-C6_WiFi_OTA_Update_Handler
 
 Copy the files ESP32-P4_WiFi_Controller.ino, SDMMC_ESP32P4.cpp and SDMMC_ESP32P4.h into the ESP32-P4_WiFi_Controller folder.
+
 Copy the file ESP32-C6_WiFi_OTA_Updater_Handler.ino into the ESP32-C6_WiFi_OTA_Update_Handler folder.
 
 For testing the RS232 communication between the P4 and C6 connect JP1
