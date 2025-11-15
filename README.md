@@ -7,6 +7,7 @@ Copy the files ESP32-P4_WiFi_Controller.ino, SDMMC_ESP32P4.cpp and SDMMC_ESP32P4
 
 Copy the file ESP32-C6_WiFi_OTA_Updater_Handler.ino into the ESP32-C6_WiFi_OTA_Update_Handler folder.
 
+
 For testing the RS232 communication between the P4 and C6 connect JP1
 
   pin 12, GPIO30 to pin 22, C6_U0TXD
@@ -14,6 +15,7 @@ For testing the RS232 communication between the P4 and C6 connect JP1
   pin 14, GPIO29 to pin 20, C6_U0RXD
 
 NOTE: I don't yet know if GPIO29 and GPIO30 are also used for other stuff but they work with this basic test.
+
 
 Programming the ESP32-P4 is done using the Full-speed Type-C USB and then switching to the High-speed Type-C for the serial debugging.
 
