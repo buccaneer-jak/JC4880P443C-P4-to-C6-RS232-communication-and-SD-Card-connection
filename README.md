@@ -19,5 +19,6 @@ The ESP32-C6 can then be updated via OTA.
 
 Espressif ESP-Prog board connections
 
-![Guition-jc4880p433-Espressif ESP-Prog board](https://github.com/user-attachments/assets/2be1fbb9-2af1-427a-99e4-34dfa611652a)
+![Guition-jc4880p433-Espressif ESP-Prog board](https://github.com/user-attachments/assets/fe238ee5-a183-4c14-a902-4a00e08d27df)
+
 
