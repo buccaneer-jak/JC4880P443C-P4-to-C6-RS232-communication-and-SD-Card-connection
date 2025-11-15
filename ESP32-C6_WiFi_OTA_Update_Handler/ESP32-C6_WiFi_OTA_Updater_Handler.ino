@@ -7,14 +7,6 @@
 #include <WebServer.h>
 #include <Update.h>
 
-// JC-ESP32P4-M3 SD Card Pin Definitions (SDMMC Mode)
-// CLK:   GPIO43
-// CMD:   GPIO44
-// DATA0: GPIO39
-// DATA1: GPIO40
-// DATA2: GPIO42
-// DATA3: GPIO41
-
 // UART pins for communication with ESP32-P4
 #define UART_RX_PIN 17 // C6 RX from P4 TX
 #define UART_TX_PIN 16 // C6 TX to   P4 RX
