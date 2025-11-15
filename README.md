@@ -17,4 +17,7 @@ Programming the ESP32-C6 is first done by connecting to JP1 pins 20 (C6_U0RXD) a
 IMPORTANT: C6_U0TXD connects to the ESP-TXD and C6_U0RXD to the ESP-RXD
 The ESP32-C6 can then be updated via OTA.
 
+Espressif ESP-Prog board connections
+
+![Guition-jc4880p433-Espressif ESP-Prog board](https://github.com/user-attachments/assets/2be1fbb9-2af1-427a-99e4-34dfa611652a)
 
